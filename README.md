@@ -1,4 +1,4 @@
-# Standard Chartered Bank Bahrain - HTML Webpage
+# Standard Chartered Bank Bahrain with Navigation Path(Study Purpose) - HTML Webpage
 
 This is a basic HTML project designed as a simple webpage layout for **Standard Chartered Bank Bahrain**. It demonstrates a clean structure using semantic HTML elements such as header, navigation, section, aside, and footer.
 
